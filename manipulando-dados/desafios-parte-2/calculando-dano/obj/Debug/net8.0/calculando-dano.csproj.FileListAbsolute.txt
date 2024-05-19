@@ -1,0 +1,15 @@
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\calculando-dano\bin\Debug\net8.0\calculando-dano.exe
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\calculando-dano\bin\Debug\net8.0\calculando-dano.deps.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\calculando-dano\bin\Debug\net8.0\calculando-dano.runtimeconfig.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\calculando-dano\bin\Debug\net8.0\calculando-dano.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\calculando-dano\bin\Debug\net8.0\calculando-dano.pdb
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\calculando-dano\obj\Debug\net8.0\calculando-dano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\calculando-dano\obj\Debug\net8.0\calculando-dano.AssemblyInfoInputs.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\calculando-dano\obj\Debug\net8.0\calculando-dano.AssemblyInfo.cs
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\calculando-dano\obj\Debug\net8.0\calculando-dano.csproj.CoreCompileInputs.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\calculando-dano\obj\Debug\net8.0\calculando-dano.sourcelink.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\calculando-dano\obj\Debug\net8.0\calculando-dano.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\calculando-dano\obj\Debug\net8.0\refint\calculando-dano.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\calculando-dano\obj\Debug\net8.0\calculando-dano.pdb
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\calculando-dano\obj\Debug\net8.0\calculando-dano.genruntimeconfig.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\calculando-dano\obj\Debug\net8.0\ref\calculando-dano.dll

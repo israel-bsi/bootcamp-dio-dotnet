@@ -1,0 +1,15 @@
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\validando-forca-de-senha-iam\bin\Debug\net8.0\validando-forca-de-senha-iam.exe
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\validando-forca-de-senha-iam\bin\Debug\net8.0\validando-forca-de-senha-iam.deps.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\validando-forca-de-senha-iam\bin\Debug\net8.0\validando-forca-de-senha-iam.runtimeconfig.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\validando-forca-de-senha-iam\bin\Debug\net8.0\validando-forca-de-senha-iam.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\validando-forca-de-senha-iam\bin\Debug\net8.0\validando-forca-de-senha-iam.pdb
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\validando-forca-de-senha-iam\obj\Debug\net8.0\validando-forca-de-senha-iam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\validando-forca-de-senha-iam\obj\Debug\net8.0\validando-forca-de-senha-iam.AssemblyInfoInputs.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\validando-forca-de-senha-iam\obj\Debug\net8.0\validando-forca-de-senha-iam.AssemblyInfo.cs
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\validando-forca-de-senha-iam\obj\Debug\net8.0\validando-forca-de-senha-iam.csproj.CoreCompileInputs.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\validando-forca-de-senha-iam\obj\Debug\net8.0\validando-forca-de-senha-iam.sourcelink.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\validando-forca-de-senha-iam\obj\Debug\net8.0\validando-forca-de-senha-iam.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\validando-forca-de-senha-iam\obj\Debug\net8.0\refint\validando-forca-de-senha-iam.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\validando-forca-de-senha-iam\obj\Debug\net8.0\validando-forca-de-senha-iam.pdb
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\validando-forca-de-senha-iam\obj\Debug\net8.0\validando-forca-de-senha-iam.genruntimeconfig.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\validando-forca-de-senha-iam\obj\Debug\net8.0\ref\validando-forca-de-senha-iam.dll

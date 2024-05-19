@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "guardiao-dos-atributos/1.0.0": {
+        "runtime": {
+          "guardiao-dos-atributos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "guardiao-dos-atributos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

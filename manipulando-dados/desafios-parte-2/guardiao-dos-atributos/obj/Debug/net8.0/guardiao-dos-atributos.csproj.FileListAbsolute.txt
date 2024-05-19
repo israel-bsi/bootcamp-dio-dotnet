@@ -1,0 +1,15 @@
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\guardiao-dos-atributos\bin\Debug\net8.0\guardiao-dos-atributos.exe
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\guardiao-dos-atributos\bin\Debug\net8.0\guardiao-dos-atributos.deps.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\guardiao-dos-atributos\bin\Debug\net8.0\guardiao-dos-atributos.runtimeconfig.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\guardiao-dos-atributos\bin\Debug\net8.0\guardiao-dos-atributos.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\guardiao-dos-atributos\bin\Debug\net8.0\guardiao-dos-atributos.pdb
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\guardiao-dos-atributos\obj\Debug\net8.0\guardiao-dos-atributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\guardiao-dos-atributos\obj\Debug\net8.0\guardiao-dos-atributos.AssemblyInfoInputs.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\guardiao-dos-atributos\obj\Debug\net8.0\guardiao-dos-atributos.AssemblyInfo.cs
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\guardiao-dos-atributos\obj\Debug\net8.0\guardiao-dos-atributos.csproj.CoreCompileInputs.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\guardiao-dos-atributos\obj\Debug\net8.0\guardiao-dos-atributos.sourcelink.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\guardiao-dos-atributos\obj\Debug\net8.0\guardiao-dos-atributos.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\guardiao-dos-atributos\obj\Debug\net8.0\refint\guardiao-dos-atributos.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\guardiao-dos-atributos\obj\Debug\net8.0\guardiao-dos-atributos.pdb
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\guardiao-dos-atributos\obj\Debug\net8.0\guardiao-dos-atributos.genruntimeconfig.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\manipulando-dados\desafios-parte-2\guardiao-dos-atributos\obj\Debug\net8.0\ref\guardiao-dos-atributos.dll
