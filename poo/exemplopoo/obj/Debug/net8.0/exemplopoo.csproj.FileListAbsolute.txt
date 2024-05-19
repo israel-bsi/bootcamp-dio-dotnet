@@ -1,0 +1,15 @@
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\exemplopoo\bin\Debug\net8.0\exemplopoo.exe
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\exemplopoo\bin\Debug\net8.0\exemplopoo.deps.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\exemplopoo\bin\Debug\net8.0\exemplopoo.runtimeconfig.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\exemplopoo\bin\Debug\net8.0\exemplopoo.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\exemplopoo\bin\Debug\net8.0\exemplopoo.pdb
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\exemplopoo\obj\Debug\net8.0\exemplopoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\exemplopoo\obj\Debug\net8.0\exemplopoo.AssemblyInfoInputs.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\exemplopoo\obj\Debug\net8.0\exemplopoo.AssemblyInfo.cs
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\exemplopoo\obj\Debug\net8.0\exemplopoo.csproj.CoreCompileInputs.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\exemplopoo\obj\Debug\net8.0\exemplopoo.sourcelink.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\exemplopoo\obj\Debug\net8.0\exemplopoo.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\exemplopoo\obj\Debug\net8.0\refint\exemplopoo.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\exemplopoo\obj\Debug\net8.0\exemplopoo.pdb
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\exemplopoo\obj\Debug\net8.0\exemplopoo.genruntimeconfig.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\exemplopoo\obj\Debug\net8.0\ref\exemplopoo.dll
