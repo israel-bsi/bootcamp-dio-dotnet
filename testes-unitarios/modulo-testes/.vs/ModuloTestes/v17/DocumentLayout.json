@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\Testes Unitarios\\ModuloTestes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B39E6C5-AC11-478A-8424-4FEAC2252397}|CalculadoraTestes\\CalculadoraTestes.csproj|c:\\users\\maste\\onedrive\\documentos\\estudos dev\\dio\\bootcamp .net\\testes unitarios\\modulotestes\\calculadoratestes\\calculadoratests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B39E6C5-AC11-478A-8424-4FEAC2252397}|CalculadoraTestes\\CalculadoraTestes.csproj|solutionrelative:calculadoratestes\\calculadoratests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E6308DB-00B7-4E2B-827C-F965BE5FB9B1}|ModuloTestes\\Calculadora.csproj|C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\Testes Unitarios\\ModuloTestes\\modulotestes\\calculadoraimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E6308DB-00B7-4E2B-827C-F965BE5FB9B1}|ModuloTestes\\Calculadora.csproj|solutionrelative:modulotestes\\calculadoraimp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B39E6C5-AC11-478A-8424-4FEAC2252397}|CalculadoraTestes\\CalculadoraTestes.csproj|C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\Testes Unitarios\\ModuloTestes\\calculadoratestes\\validacoesstringstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B39E6C5-AC11-478A-8424-4FEAC2252397}|CalculadoraTestes\\CalculadoraTestes.csproj|solutionrelative:calculadoratestes\\validacoesstringstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E6308DB-00B7-4E2B-827C-F965BE5FB9B1}|ModuloTestes\\Calculadora.csproj|C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\Testes Unitarios\\ModuloTestes\\modulotestes\\validacoesstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E6308DB-00B7-4E2B-827C-F965BE5FB9B1}|ModuloTestes\\Calculadora.csproj|solutionrelative:modulotestes\\validacoesstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E6308DB-00B7-4E2B-827C-F965BE5FB9B1}|ModuloTestes\\ModuloTestes.csproj|C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\Testes Unitarios\\ModuloTestes\\modulotestes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E6308DB-00B7-4E2B-827C-F965BE5FB9B1}|ModuloTestes\\ModuloTestes.csproj|solutionrelative:modulotestes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidacoesStringsTests.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\Testes Unitarios\\ModuloTestes\\CalculadoraTestes\\ValidacoesStringsTests.cs",
+              "RelativeDocumentMoniker": "CalculadoraTestes\\ValidacoesStringsTests.cs",
+              "ToolTip": "C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\Testes Unitarios\\ModuloTestes\\CalculadoraTestes\\ValidacoesStringsTests.cs",
+              "RelativeToolTip": "CalculadoraTestes\\ValidacoesStringsTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:49:08.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidacoesStrings.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\Testes Unitarios\\ModuloTestes\\ModuloTestes\\ValidacoesStrings.cs",
+              "RelativeDocumentMoniker": "ModuloTestes\\ValidacoesStrings.cs",
+              "ToolTip": "C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\Testes Unitarios\\ModuloTestes\\ModuloTestes\\ValidacoesStrings.cs",
+              "RelativeToolTip": "ModuloTestes\\ValidacoesStrings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:47:54.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraImp.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\Testes Unitarios\\ModuloTestes\\ModuloTestes\\CalculadoraImp.cs",
+              "RelativeDocumentMoniker": "ModuloTestes\\CalculadoraImp.cs",
+              "ToolTip": "C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\Testes Unitarios\\ModuloTestes\\ModuloTestes\\CalculadoraImp.cs",
+              "RelativeToolTip": "ModuloTestes\\CalculadoraImp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:23:50.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculadoraTests.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\Testes Unitarios\\ModuloTestes\\CalculadoraTestes\\CalculadoraTests.cs",
+              "RelativeDocumentMoniker": "CalculadoraTestes\\CalculadoraTests.cs",
+              "ToolTip": "C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\Testes Unitarios\\ModuloTestes\\CalculadoraTestes\\CalculadoraTests.cs",
+              "RelativeToolTip": "CalculadoraTestes\\CalculadoraTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:20:43.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\Testes Unitarios\\ModuloTestes\\ModuloTestes\\Program.cs",
+              "RelativeDocumentMoniker": "ModuloTestes\\Program.cs",
+              "ToolTip": "C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\Testes Unitarios\\ModuloTestes\\ModuloTestes\\Program.cs",
+              "RelativeToolTip": "ModuloTestes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:19:56.627Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
