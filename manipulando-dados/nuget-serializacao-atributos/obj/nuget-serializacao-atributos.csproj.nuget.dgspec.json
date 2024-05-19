@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\manipulaca-de-dados\\nuget-serializacao-atributos\\nuget-serializacao-atributos.csproj": {}
+    "C:\\Estudos Dev\\DIO\\bootcamp-dio-dotnet\\manipulando-dados\\nuget-serializacao-atributos\\nuget-serializacao-atributos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\manipulaca-de-dados\\nuget-serializacao-atributos\\nuget-serializacao-atributos.csproj": {
+    "C:\\Estudos Dev\\DIO\\bootcamp-dio-dotnet\\manipulando-dados\\nuget-serializacao-atributos\\nuget-serializacao-atributos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\manipulaca-de-dados\\nuget-serializacao-atributos\\nuget-serializacao-atributos.csproj",
+        "projectUniqueName": "C:\\Estudos Dev\\DIO\\bootcamp-dio-dotnet\\manipulando-dados\\nuget-serializacao-atributos\\nuget-serializacao-atributos.csproj",
         "projectName": "nuget-serializacao-atributos",
-        "projectPath": "C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\manipulaca-de-dados\\nuget-serializacao-atributos\\nuget-serializacao-atributos.csproj",
+        "projectPath": "C:\\Estudos Dev\\DIO\\bootcamp-dio-dotnet\\manipulando-dados\\nuget-serializacao-atributos\\nuget-serializacao-atributos.csproj",
         "packagesPath": "C:\\Users\\maste\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maste\\OneDrive\\Documentos\\Estudos Dev\\DIO\\Bootcamp .Net\\manipulaca-de-dados\\nuget-serializacao-atributos\\obj\\",
+        "outputPath": "C:\\Estudos Dev\\DIO\\bootcamp-dio-dotnet\\manipulando-dados\\nuget-serializacao-atributos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maste\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "newtonsoft.json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
