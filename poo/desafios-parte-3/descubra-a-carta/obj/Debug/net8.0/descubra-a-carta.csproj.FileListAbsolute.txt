@@ -1,0 +1,15 @@
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\descubra-a-carta\bin\Debug\net8.0\descubra-a-carta.exe
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\descubra-a-carta\bin\Debug\net8.0\descubra-a-carta.deps.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\descubra-a-carta\bin\Debug\net8.0\descubra-a-carta.runtimeconfig.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\descubra-a-carta\bin\Debug\net8.0\descubra-a-carta.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\descubra-a-carta\bin\Debug\net8.0\descubra-a-carta.pdb
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\descubra-a-carta\obj\Debug\net8.0\descubra-a-carta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\descubra-a-carta\obj\Debug\net8.0\descubra-a-carta.AssemblyInfoInputs.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\descubra-a-carta\obj\Debug\net8.0\descubra-a-carta.AssemblyInfo.cs
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\descubra-a-carta\obj\Debug\net8.0\descubra-a-carta.csproj.CoreCompileInputs.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\descubra-a-carta\obj\Debug\net8.0\descubra-a-carta.sourcelink.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\descubra-a-carta\obj\Debug\net8.0\descubra-a-carta.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\descubra-a-carta\obj\Debug\net8.0\refint\descubra-a-carta.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\descubra-a-carta\obj\Debug\net8.0\descubra-a-carta.pdb
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\descubra-a-carta\obj\Debug\net8.0\descubra-a-carta.genruntimeconfig.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\descubra-a-carta\obj\Debug\net8.0\ref\descubra-a-carta.dll

@@ -1,0 +1,15 @@
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\item-magico\bin\Debug\net8.0\item-magico.exe
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\item-magico\bin\Debug\net8.0\item-magico.deps.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\item-magico\bin\Debug\net8.0\item-magico.runtimeconfig.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\item-magico\bin\Debug\net8.0\item-magico.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\item-magico\bin\Debug\net8.0\item-magico.pdb
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\item-magico\obj\Debug\net8.0\item-magico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\item-magico\obj\Debug\net8.0\item-magico.AssemblyInfoInputs.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\item-magico\obj\Debug\net8.0\item-magico.AssemblyInfo.cs
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\item-magico\obj\Debug\net8.0\item-magico.csproj.CoreCompileInputs.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\item-magico\obj\Debug\net8.0\item-magico.sourcelink.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\item-magico\obj\Debug\net8.0\item-magico.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\item-magico\obj\Debug\net8.0\refint\item-magico.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\item-magico\obj\Debug\net8.0\item-magico.pdb
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\item-magico\obj\Debug\net8.0\item-magico.genruntimeconfig.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\item-magico\obj\Debug\net8.0\ref\item-magico.dll

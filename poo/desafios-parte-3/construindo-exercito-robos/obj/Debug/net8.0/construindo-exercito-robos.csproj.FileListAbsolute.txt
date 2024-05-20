@@ -1,0 +1,15 @@
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\construindo-exercito-robos\bin\Debug\net8.0\construindo-exercito-robos.exe
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\construindo-exercito-robos\bin\Debug\net8.0\construindo-exercito-robos.deps.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\construindo-exercito-robos\bin\Debug\net8.0\construindo-exercito-robos.runtimeconfig.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\construindo-exercito-robos\bin\Debug\net8.0\construindo-exercito-robos.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\construindo-exercito-robos\bin\Debug\net8.0\construindo-exercito-robos.pdb
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\construindo-exercito-robos\obj\Debug\net8.0\construindo-exercito-robos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\construindo-exercito-robos\obj\Debug\net8.0\construindo-exercito-robos.AssemblyInfoInputs.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\construindo-exercito-robos\obj\Debug\net8.0\construindo-exercito-robos.AssemblyInfo.cs
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\construindo-exercito-robos\obj\Debug\net8.0\construindo-exercito-robos.csproj.CoreCompileInputs.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\construindo-exercito-robos\obj\Debug\net8.0\construindo-exercito-robos.sourcelink.json
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\construindo-exercito-robos\obj\Debug\net8.0\construindo-exercito-robos.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\construindo-exercito-robos\obj\Debug\net8.0\refint\construindo-exercito-robos.dll
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\construindo-exercito-robos\obj\Debug\net8.0\construindo-exercito-robos.pdb
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\construindo-exercito-robos\obj\Debug\net8.0\construindo-exercito-robos.genruntimeconfig.cache
+C:\Estudos Dev\DIO\bootcamp-dio-dotnet\poo\desafios-parte-3\construindo-exercito-robos\obj\Debug\net8.0\ref\construindo-exercito-robos.dll
